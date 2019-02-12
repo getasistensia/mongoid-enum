@@ -1,3 +1,5 @@
+### Supporting mongoid-enum for Rails-5 and Mongoid-6
+
 # Mongoid::Enum
 
 [![Build
